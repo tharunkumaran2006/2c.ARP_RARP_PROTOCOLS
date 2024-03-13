@@ -25,7 +25,7 @@ P
 ## PROGRAM - RARP
 ![Screenshot 2024-03-13 113410](https://github.com/tharunkumaran2006/2c.ARP_RARP_PROTOCOLS/assets/151625188/d40737b2-3b9d-4d05-90f8-46c236d4397f)
 
-## OUPUT -RARP
+## OUTPUT -RARP
 ![Screenshot 2024-03-13 113440](https://github.com/tharunkumaran2006/2c.ARP_RARP_PROTOCOLS/assets/151625188/81721af4-db39-4519-8391-4507dfc4f34f)
 
 ## RESULT
